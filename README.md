@@ -2,6 +2,8 @@
 
 A comprehensive data analytics project that analyzes job market trends, salary patterns, and employment characteristics using Python and machine learning techniques.
 
+[![Kaggle](https://kaggle.com/static/images/open-in-kaggle.svg)](https://www.kaggle.com/code/aramelheni/job-market-data-analytics-project)
+
 ## 📊 Project Overview
 
 This project provides an in-depth analysis of job market data to uncover insights about:
@@ -221,6 +223,6 @@ The analysis uses a job descriptions dataset with the following key fields:
 
 ## 🙏 Acknowledgments
 
-- Dataset source: Kaggle Job Description Dataset
+- Dataset source: [Kaggle Job Description Dataset](https://www.kaggle.com/datasets/ravindrasinghrana/job-description-dataset)
 - Python data science community
 - Open-source library maintainers
